@@ -1,15 +1,20 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "ejs": "1.9.0",
-    "express": "3.5.1",
-    "express-myconnection": "1.0.4",
-    "jade": "*",
-    "mysql": "2.2.0"
-  }
+ "name": "nodejs-create-read-update-delete",
+ "version": "0.0.1",
+ "private": true,
+ "scripts": {
+  "start": "node app.js"
+ },
+ "author": {
+  "name": "vinay shrivastava",
+  "email": "vinaykunu@gmail.com"
+ },
+ "homepage": "https://github.com/vinaykunu/nodejs",
+ "dependencies": {
+  "ejs": "2.5.8",
+  "express": "3.5.1",
+  "express-myconnection": "1.0.4",
+  "jade": "*",
+  "mysql": "2.2.0"
+ }
 }
